@@ -1,0 +1,6 @@
+{
+  "name": "HDX-STAFF",
+  "description": "Staff Attendance System with registration, login, 24-hour cooldown, IP tracking, and secure Admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
